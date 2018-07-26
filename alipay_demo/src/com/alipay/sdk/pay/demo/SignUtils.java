@@ -6,16 +6,7 @@ import java.security.spec.PKCS8EncodedKeySpec;
 
 public class SignUtils {
 	
-	//git和空间大会看到
-	//张亚涛好着呢个
-	//ggfjnfdlkg
-	//张涛涛
-	//gaile gaile
-	//改了
-	//gaile gaile  gaile
-	//你好 nihao
-	//你好
-	//你好 nihao nihao
+	//git
 
 
 	private static final String ALGORITHM = "RSA";
