@@ -20,6 +20,8 @@ import android.widget.Toast;
 import com.alipay.sdk.app.PayTask;
 
 public class PayDemoActivity extends FragmentActivity {
+	
+	//zhangyatao
 
 	// 商户PID
 	public static final String PARTNER = "";
