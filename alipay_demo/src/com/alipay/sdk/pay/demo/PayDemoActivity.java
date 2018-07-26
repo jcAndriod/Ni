@@ -21,7 +21,7 @@ import com.alipay.sdk.app.PayTask;
 
 public class PayDemoActivity extends FragmentActivity {
 	
-	//zhangyatao张亚涛
+	//zhangyatao
 
 	// 商户PID
 	public static final String PARTNER = "";
